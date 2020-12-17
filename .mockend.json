@@ -1,4 +1,4 @@
-Locaiton = [
+ [
 { id: 1,
 	name: 'lucknow',
 	username:'lco',
@@ -17,4 +17,4 @@ Locaiton = [
 	email:'12345'},{id: 5,
 	name: 'lucknow',
 	username:'lco',
-	email:'12345'},]
+	email:'12345'}
